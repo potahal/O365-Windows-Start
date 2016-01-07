@@ -1,4 +1,4 @@
-# Office 365 Starter Project for Windows ストア アプリ #
+## Office 365 Starter Project for Windows ストア アプリ #
 
 [日本 (日本語)](https://github.com/OfficeDev/O365-Windows-Start/blob/master/loc/README-ja.md) (日本語)
 
@@ -196,6 +196,5 @@ Office 365 開発全般の質問につきましては、「[スタック オー�
 ## 著作権 ##
 
 Copyright (c) Microsoft. All rights reserved.
-
 
 
